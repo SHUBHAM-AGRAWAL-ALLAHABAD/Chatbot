@@ -148,8 +148,7 @@ Singapore-based Private Limited Company, remote team Philippines me.
         `;
 
         // const API_KEY = "YOUR_API_KEY"; // 🔑 apna Gemini API key daalo
-                    const API_KEY = "AIzaSyCaVUaogb8ILZx9KkGCv7Y0Xss73pCCH00";
-                    // const API_KEY =  "AIzaSyDpHPZ0WBSChjhSbEVGtYt2tZT-HfcihDc";
+                    const API_KEY =  "AIzaSyDpHPZ0WBSChjhSbEVGtYt2tZT-HfcihDc";
                      // Replace with your actual API key
 
         const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
